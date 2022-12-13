@@ -1,0 +1,33 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  font-family: 'Muli', 'Helvetica', 'Arial', 'sans-serif';
+}
+
+.nav{
+    background-color: #3f4544;
+    height: 4pc;
+}
+.jumbotron{
+    background: url(https://cdn.pixabay.com/photo/2015/08/14/07/46/gradient-888101_960_720.jpg);
+    background-size: cover;
+
+}
+
+a {
+    color: #20eed9;
+    transition: all .35s;
+  }
+  
+  a:hover, a:focus {
+    color: #20eed9;
+    box-shadow: #3f4544;
+  }
+  
+  .image1{
+    border-radius: 2pc;
+  }
