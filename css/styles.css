@@ -11,10 +11,17 @@ body {
 .nav{
     background-color: #3f4544;
     height: 4pc;
+    
 }
+
+.btn {
+  box-shadow: 3px 3px grey;
+}
+
 .jumbotron{
     background: url(https://cdn.pixabay.com/photo/2015/08/14/07/46/gradient-888101_960_720.jpg);
     background-size: cover;
+    height: 20pc;
 
 }
 
@@ -28,6 +35,31 @@ a {
     box-shadow: #3f4544;
   }
   
-  .image1{
-    border-radius: 2pc;
+  .mywork{
+    margin-left: 25pc;
+    margin-top: 5px;
+  }
+  .p{
+    font-size: x-large;
+    margin-top: 2pc;
+  }
+  .card-title{
+    margin-top: 5px;
+    color: rgb(0, 191, 255);
+    font-size: x-large;
+    font-weight: bolder;
+    
+  }
+  .contact{
+    display: flex;
+    justify-content: center;
+    background-color: #3f4544;
+    margin-bottom: 0px;
+    margin-top: 5px;
+    color: azure;
+    padding-top: 10px;
+  }
+  .card-img1{
+    border-radius: 10px;
+    margin-left: 10px;
   }
