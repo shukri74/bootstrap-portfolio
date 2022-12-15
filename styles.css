@@ -36,7 +36,7 @@ a {
   }
   
   .mywork{
-    margin-left: 25pc;
+    margin-left: 18pc;
     margin-top: 5px;
   }
   .p{
@@ -62,4 +62,11 @@ a {
   .card-img1{
     border-radius: 10px;
     margin-left: 10px;
+  }
+  .centergrid{
+    margin-left: 20pc;
+  }
+  .cardabout{
+    background-color: whitesmoke;
+    margin-top: 2px;
   }
