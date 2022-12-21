@@ -63,12 +63,13 @@ a {
   }
   .card-img1{
     border-radius: 10px;
+    height: 400px;
     margin-left: 10px;
   }
   .centergrid{
     margin-left: 20pc;
   }
   .cardabout{
-    background-color: whitesmoke;
-    margin-top: 2px;
+    background-color: rgb(232, 253, 248);
+    margin-top: 0px;
   }
